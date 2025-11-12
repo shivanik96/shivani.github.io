@@ -2,10 +2,10 @@
 title: Shivani Kumar
 email: kshivan@umich.edu
 description: > # this means to ignore newlines until "baseurl:"
-   Postdoctoral Research Fellow at University of Michigan. PhD from IIITD, India. I try to make chatbots understand more.
+   Postdoctoral Research Fellow at University of Michigan. PhD from IIITD, India. I try to make AI more human.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.shivani.in" # the base hostname & protocol for your site
-production_url: "https://www.shivani.in"
+url: "https://kumarshivani.com" # the base hostname & protocol for your site
+production_url: "https://kumarshivani.com"
 github_username: shivanik96
 permalink: /blog/:year/:month/:title.html
 
