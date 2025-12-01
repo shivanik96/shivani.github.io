@@ -1,5 +1,14 @@
 <footer>
   <div class="container">
+    {% assign mmv_width = site.mapmyvisitors_width | default: "100px" %}
+    {% assign mmv_height = site.mapmyvisitors_height | default: "50px" %}
+    <div style="width:{{ mmv_width }};height:{{ mmv_height }};max-width:100%;margin-bottom:0.5em;">
+      <script type="text/javascript" id="mapmyvisitors"
+        src="//mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=7ksrgw4tlA-8LbWt5zcKQdTPN8BCt-CqERwxsxsB-VM&co=1f6394&ct=ffffff"
+        data-width="{{ mmv_width }}" data-height="{{ mmv_height }}">
+      </script>
+    </div>
+    <!-- Instructions: Set mapmyvisitors_width and mapmyvisitors_height in _config.yml to override the default map size. -->
     <div class="footer-col">
       Hello from Ann Arbor, Michigan.<br/>
       <abbr title="Last build on {{site.time | date: '%Y-%m-%d'}}">{{ site.time | date: '%B %Y'}}</abbr>
