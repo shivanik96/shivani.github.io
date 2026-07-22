@@ -1,0 +1,13 @@
+---
+layout: post
+date: 2026-04-01
+layout: post
+type: talk
+slug: Talk
+description: Talk on "Computational Social Intelligence for Human-Centered AI"
+title: University of Texas - Rio Grande Valley
+venue: Texas, USA
+# wordpress_id: 188
+tags:
+- utrgv
+---

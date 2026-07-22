@@ -1,0 +1,13 @@
+---
+layout: post
+date: 2026-06-19
+layout: post
+type: talk
+slug: Talk
+description: Talk on "Computational Social Intelligence for Human-Centered AI"
+title: Indian Institute of Science (IISc)
+venue: Bengaluru, India
+# wordpress_id: 188
+tags:
+- iisc
+---

@@ -1,52 +1,67 @@
+- title: Do LLMs cooperate when it counts? Find out in our latest COLM 2026 paper <a href="https://arxiv.org/abs/2604.20658" target="_blank">here</a>!
+  date: July 2026
+  highlight: 1
+  type: publication
+
+- title: Selected for the <a href="https://aiim.umich.edu/empowering-research-with-ai-award-recipients-2026/" target="_blank">Empowering Research with AI Award</a> at the University of Michigan!
+  date: April 2026
+  highlight: 2
+  type: award
+
+- title: Extended abstracts of our ongoing work on persuasion got selected at <a href="https://nlp.cs.illinois.edu/msld.html" target="_blank">MSLD 2026</a> and <a href="https://ic2s2-2026.org" target="_blank">IC2S2 2026</a>.
+  date: April 2026
+  highlight: 3
+  type: publication
+
+- title: Can LLMs simulate humans in conversations? Find out in our new ACL 2026 findings paper <a href='https://aclanthology.org/2026.findings-acl.2060/' target='_blank'>here</a>.
+  date: April 2026
+  highlight: 3
+  type: publication
+
 - title: Selected for the short-term scholarship program of DAAD Postdoc-NeT-AI!
   date: October 2025
-  highlight: 1
+  highlight: 4
   type: award
 
 - title: Our <a href="https://aclanthology.org/2025.acl-long.294/" target="_blank">ACL 2025 paper</a> won the Best Resource Paper Award!
   date: August 2025
-  highlight: 1
+  highlight: 5
   type: award
 
 - title: Selected to participate in Science Slam at the <a href="https://www.gain-network.org/en/annual-gain-conference/" target="_blank">Annual GAIN Conference 2025</a>!
   date: July 2025
-  highlight: 1
+  highlight: 6
   type: award
 
 - title: Can AI grasp how humans across cultures reason through moral dilemmas? Find out in our <a href='https://aclanthology.org/2025.acl-long.294/' target='_blank'>ACL 2025 paper</a>!
   date: May 2025
-  highlight: 1
+  highlight: 7
   type: publication
 
 - title: Selected as a DAAD AInet fellow for the <a href='https://www.daad.de/en/the-daad/postdocnet/' target='_blank'>Postdoc-NeT-AI</a>!
   date: Oct 2024
-  highlight: 1
+  highlight: 8
   type: award
 
-- title: New preprint alert! Can LLMs simulate humans in conversations? Find out <a href='https://arxiv.org/abs/2409.08330' target='_blank'>here</a>.
-  date: Sep 2024
-  highlight: 1
-  type: publication
+# - title: Started Postdoc at <a href='https://www.si.umich.edu' target='_blank'>UMSI</a> under <a href='https://jurgens.people.si.umich.edu' target='_blank'>Prof David Jurgens</a>!.
+#   date: May 2024
+#   highlight: 1
+#   type: news
 
-- title: Started Postdoc at <a href='https://www.si.umich.edu' target='_blank'>UMSI</a> under <a href='https://jurgens.people.si.umich.edu' target='_blank'>Prof David Jurgens</a>!.
-  date: May 2024
-  highlight: 1
-  type: news
+# - title: Presented our work at the <a href='https://event.india.acm.org/arcs/home/' target='_blank'>ACM ARCS symposium</a> held at NISER Bhubaneswar.
+#   # url: https://event.india.acm.org/arcs/home/
+#   poster: assets/ACM-ARCS-2024.pdf
+#   date: Feb 2024
+#   highlight: 2
+#   type: news
 
-- title: Presented our work at the <a href='https://event.india.acm.org/arcs/home/' target='_blank'>ACM ARCS symposium</a> held at NISER Bhubaneswar.
-  # url: https://event.india.acm.org/arcs/home/
-  poster: assets/ACM-ARCS-2024.pdf
-  date: Feb 2024
-  highlight: 2
-  type: news
-
-- title: Gave a tutorial on AI for Mental Health at the <a href='http://icon2023.unigoa.ac.in' target='_blank'>ICON 2023</a> conference held in Goa.
-  url: https://ai4mh.github.io
-  code: https://github.com/LCS2-IIITD/SPARTA_WSDM2022#hope-dataset-access-request
-  slides: https://ai4mh.github.io/AI4MH_Tutorial.pdf
-  date: Dec 2023
-  highlight: 3
-  type: news
+# - title: Gave a tutorial on AI for Mental Health at the <a href='http://icon2023.unigoa.ac.in' target='_blank'>ICON 2023</a> conference held in Goa.
+#   url: https://ai4mh.github.io
+#   code: https://github.com/LCS2-IIITD/SPARTA_WSDM2022#hope-dataset-access-request
+#   slides: https://ai4mh.github.io/AI4MH_Tutorial.pdf
+#   date: Dec 2023
+#   highlight: 3
+#   type: news
 
 # - title: Received Microsoft Travel Grant to present our <a href='https://2023.emnlp.org' target='_blank'>EMNLP 2023</a> paper at Singapore.
 #   date: Nov 2023

@@ -9,14 +9,14 @@ class: home
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1" style="text-align: justify; text-justify: inter-word;">
-<p style="color:#b22222; font-weight:bold;">
+<!-- <p style="color:#b22222; font-weight:bold;">
   <i class="fas fa-briefcase" style="margin-right: 6px;"></i> I am on the academic job market for positions starting in 2026!
-</p>
+</p> -->
 
-I'm a Postdoctoral Research Fellow at the <a href="https://blablablab.si.umich.edu/" target="_blank">BlaBlaBlab</a> at <a href="https://umich.edu/" target="_blank">University of Michigan</a>, where I am working with <a href="https://jurgens.people.si.umich.edu/" target="_blank">Prof David Jurgens</a> on culturally enriched and morally refined language models. 
+I'm a Postdoctoral Research Fellow at the <a href="https://blablablab.si.umich.edu/" target="_blank">BlaBlaBlab</a> at <a href="https://umich.edu/" target="_blank">University of Michigan</a>, where I am working with <a href="https://jurgens.people.si.umich.edu/" target="_blank">Prof David Jurgens</a> on Computational Social Intelligence for human centered AI. 
 <!-- On one hand, we dive deep into understanding how people from different cultures make decisions when the stakes are high and the moral lines are blurred. On the other, we explore the nuances of morality in everyday conversations. -->
 
-I completed my PhD from the <a href="https://lcs2.in/" target="_blank">LCS2 Lab</a>, advised by <a href="https://www.tanmoychak.com/" target="_blank">Prof Tanmoy Chakraborty</a>, from <a href="https://www.iiitd.ac.in/" target="_blank">IIITD</a>, before which I had completed my masters (M.Sc.) and bachelors (B.Sc.) from <a href="https://www.du.ac.in/" target="_blank">University of Delhi</a>. My <a href="https://repository.iiitd.edu.in/xmlui/handle/123456789/1389" target="_blank">PhD journey <i class="fa-solid fa-book"></i></a> took me deep into the territory of conversational AI, where I explored the lucidity of dialogue - exploring everything from emotions, humour, and sarcasm to the unique essence of each speaker.
+I completed my PhD in India from the <a href="https://lcs2.in/" target="_blank">LCS2 Lab</a>, advised by <a href="https://www.tanmoychak.com/" target="_blank">Prof Tanmoy Chakraborty</a>, from <a href="https://www.iiitd.ac.in/" target="_blank">IIITD</a>, before which I had completed my masters (M.Sc.) and bachelors (B.Sc.) from <a href="https://www.du.ac.in/" target="_blank">University of Delhi</a>, India. My <a href="https://repository.iiitd.edu.in/xmlui/handle/123456789/1389" target="_blank">PhD journey <i class="fa-solid fa-book"></i></a> took me deep into the territory of conversational AI, where I explored the lucidity of dialogue - exploring everything from emotions, humour, and sarcasm to the unique essence of each speaker.
 
 <!-- In my PhD, I worked in the area of conversational AI, with a focus on affective traits of the dialogue, such as emotions, humour, sarcasm, and speaker profile. -->
 
@@ -41,7 +41,8 @@ I completed my PhD from the <a href="https://lcs2.in/" target="_blank">LCS2 Lab<
 
 <div class="columns" markdown="1">
 <div class ="intro"  markdown="1" style="text-align: justify; text-justify: inter-word;">
-I am a researcher in NLP and human–AI interaction. I design, analyze, and evaluate AI systems with a focus on human-centered dimensions of language, including affective and socio-cultural factors such as emotions, morality, and culture. My work investigates how these systems understand, express, and explain these complex phenomena. Looking ahead, I aim to extend this research to rhetorical strategies, exploring how human-specific dimensions are leveraged by AI systems to persuade or influence human decision-making.
+I am a researcher in NLP and human–AI interaction. I design, analyze, and evaluate AI systems with a focus on human-centered dimensions of language, including affective and socio-cultural factors such as emotions, morality, culture, persuasion, and cooperation. My work investigates how AI systems understand, express, and explain these complex aspects of human communication, as well as how their behavior varies across languages, cultures, and social contexts.
+<!-- Looking ahead, I aim to extend this research to rhetorical strategies, exploring how human-specific dimensions are leveraged by AI systems to persuade or influence human decision-making. -->
 
 </div>
 </div>
